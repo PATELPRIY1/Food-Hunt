@@ -67,7 +67,7 @@ body{
     justify-content: space-between;
     height: 64px;
     align-items: center;
-    padding: 1.5rem;
+    padding: 1.5em;
 }
 
 .menu-items{
@@ -77,7 +77,7 @@ body{
 
 .menu-items li{
     list-style-type: none;
-    margin: 1.5rem;
+    margin: 1.5em;
     font-size: 1.8rem;
 }
 
@@ -123,7 +123,7 @@ body{
 
 .about-area{
     background-color: #f5f5f7;
-    padding: 5rem 0;
+    padding: 5em 0;
 }
 
 .about-container{
@@ -142,7 +142,7 @@ body{
 }
 
 .text-box p{
-    font-size: 1.6rem;
+    font-size: 1.6em;
     color: #555;
 }
 
@@ -170,7 +170,7 @@ body{
 
 .text-box{
     flex: 1 1 400px;
-    padding: 30px;
+    padding: 3em;
     margin: auto;
     transform: translateX(-150%);
     animation: text-box-animation 1s ease-in-out forwards;
@@ -185,14 +185,14 @@ body{
 /* ################# type of food ############### */
 
 .food{
-    padding: 5rem 0 10rem 0;
+    padding: 5em 0 10em 0;
 }
 
 .food h2{
     text-align: center;
-    font-size: 3rem;
+    font-size: 3em;
     font-weight: 400;
-    margin-bottom: 40px;
+    margin-bottom: 4em;
     text-transform: uppercase;
     color: #555;
 }
@@ -212,7 +212,7 @@ body{
 }
 
 .img-container{
-    margin: 0 1rem;
+    margin: 0 1em;
     position: relative;
 }
 
@@ -270,7 +270,7 @@ body{
 
 .food-menu-heading{
     text-align: center;
-    font-size: 4rem;
+    font-size: 4em;
     font-weight: 400;
     color: #666;
 }
@@ -294,11 +294,11 @@ body{
     display: flex;
     flex: 1 1 600px;
     justify-content: space-evenly;
-    margin-bottom: 3rem;
+    margin-bottom: 3em;
 }
 
 .food-description{
-    margin: auto 1.5rem;
+    margin: auto 1.5em;
 }
 
 .food-title{
@@ -321,7 +321,7 @@ body{
 /* ############### Testimonial styling ################# */
 
 #testimonials{
-    padding: 5rem 0;
+    padding: 5em 0;
     background-color: #f3f3f3;
 }
 
@@ -337,7 +337,7 @@ body{
     /* flex-wrap: wrap; */
     justify-content: space-between;
     font-size: 1.6rem;
-    padding: 1rem;
+    padding: 1em;
 }
 
 .testimonial-box .checked{
@@ -345,13 +345,13 @@ body{
 }
 
 .testimonial-box .testimonial-text{
-    margin: 1rem 0;
+    margin: 1em 0;
     color: #444;
 }
 
 .testimonial-box{
     text-align: center;
-    padding: 1rem;
+    padding: 1em;
 }
 
 .customer-photo img{
@@ -365,13 +365,13 @@ body{
 }
 
 .star-rating span{
-    margin-right: 1rem;
+    margin-right: 1em;
 }
 
 /* ############### Contact styling ################# */
 
 #contact{
-    padding: 5rem 0;
+    padding: 5em 0;
     background-color: #e0e0e0;
 }
 
@@ -395,7 +395,7 @@ body{
 
 .form-container{
     width: 50%;
-    padding: 1rem;
+    padding: 1em;
     margin: auto;
 }
 
@@ -404,10 +404,10 @@ body{
     width: 100%;
     border: none;
     border-bottom: 2px solid #ddd;
-    padding: 1rem 0;
+    padding: 1em 0;
     box-shadow: none;
     outline: none;
-    margin-bottom: 1rem;
+    margin-bottom: 1em;
     color: #444;
     font-weight: 500;
 }
@@ -417,7 +417,7 @@ body{
     width: 100%;
     border: none;
     border-bottom: 2px solid #ddd;
-    padding: 1rem 0;
+    padding: 1em 0;
 }
 
 .form-container h2{
@@ -425,7 +425,7 @@ body{
     font-size: 3rem;
     font-weight: 400;
     color: #666;
-    margin-bottom: 1rem;
+    margin-bottom: 1em;
 }
 
 .form-container a{
@@ -437,7 +437,7 @@ body{
 #footer h2{
     text-align: center;
     font-size: 2rem;
-    padding: 3rem;
+    padding: 3em;
     font-weight: 500;
     color: #fff;
     background-color: rgb(65, 65, 65);
@@ -518,7 +518,7 @@ body{
     }
 
     .navbar .menu-items li{
-        margin-bottom: 3rem;
+        margin-bottom: 3em;
         font-size: 2rem;
         font-weight: 500;
     }
@@ -549,7 +549,7 @@ body{
         align-items: stretch;
     }
     .food-type:not(:last-child){
-        margin-bottom: 3rem;
+        margin-bottom: 3em;
     }
     .food-type{
         box-shadow: 5px 5px 10px 0 #aaa;
@@ -585,7 +585,7 @@ body{
     }
     .contact-image{
         width: 90%;
-        margin: 3rem auto;
+        margin: 3em auto;
     }
 }
 
